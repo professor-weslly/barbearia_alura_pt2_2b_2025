@@ -2,13 +2,13 @@ header {
   background:#bbbbbb;
   padding: 20px 0;
 }
-
+/*add 17/03*/
 .caixa{
   position:relative;
   width: 940px;
   margin: 0 auto;
 }
-
+/*add 17/03*/
 nav{
   position: absolute;
   top: 110px;
@@ -27,18 +27,18 @@ nav a {
   font-size: 22px;
   text-decoration: none;
 }
-
+/*add 17/03*/
 nav a:hover{
   color:#d3811d;
   text-decoration: underline;
 }
-
+/*add 17/03*/
 .produtos{
   width: 940px;
   margin: 0 auto;
   padding: 50px 0;
 }
-
+/*add 17/03*/
 .produtos li{
   display: inline-block;
   text-align: center;
@@ -49,16 +49,16 @@ nav a:hover{
   border: 2px solid black;
   border-radius: 45px;
 }
-
+/*add 17/03*/
 .produtos h2{
   font-size: 30px;
   font-weight: bold;
 }
-
+/*add 17/03*/
 .produto-descricao{
   font-size: 18px;
 }
-
+/*add 17/03*/
 .produto-preco{
   font-size: 22px;
   font-weight: bold;
