@@ -1,9 +1,9 @@
 @import url(produtos.css);
 
 main {
-    width: 940px;
-    margin: 0 auto;
-  }
+	width: 940px;
+	margin: 0 auto;
+}
 
 form {
   margin: 40px 0;
@@ -20,4 +20,26 @@ form label form p {
   margin: 0 0 20px;
   padding: 10px 25px;
   width: 50%;
+}
+
+.checkbox {
+  margin: 20px 0;
+}
+
+.enviar {
+  width: 40%;
+  padding: 15px 0;
+  background: orange;
+  color:white;
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  transition: 1s all;
+  cursor: pointer;
+}
+
+.enviar:hover {
+  background: darkorange;
+  transform: scale(1.2);
 }
