@@ -1,3 +1,7 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
 header {
   background:#bbbbbb;
   padding: 20px 0;
@@ -49,15 +53,15 @@ nav a:hover{
   border: 2px solid black;
   border-radius: 45px;
 }
-/*add 18/03*/
+
 .produtos li:hover{
   border-color: red;
 }
-/*add 18/03*/
+
 .produtos li:active{
   border-color: green;
 }
-/*add 18/03*/
+
 .produtos li:hover h2{
   font-size: 34px;
 }
@@ -76,7 +80,7 @@ nav a:hover{
   font-weight: bold;
   margin-top: 10px;
 }
-/*add 18/03*/
+
 footer{
   text-align: center;
   background: url("bg.jpg");
